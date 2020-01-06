@@ -1,0 +1,384 @@
+@media (max-width: 575.98px) {
+    .til{
+        text-align: right !important;
+    }
+    #poit{
+        float: right !important;
+    }
+    #ufh, #otir, #mashs, #aojdi{
+      max-width: 300px !important;
+      margin: 30px 0px 0px -25px !important;
+    }
+    #g0d, #g1d, #g2d, #g3d, #g4d{
+        font-size: 10px !important;
+    }
+    .pia{
+        font-size: 18px !important;
+    }
+    #p0a, #p1a, #p2a, #p3a, #p4a, #p5a{
+        font-size: 17px !important;
+    }
+    #a01, #a1i, #a2i, #a3i, #a4i, #a5i{
+        font-size: 25px !important;
+    }
+    #ali, .tti{
+        padding-top: 50px !important;
+    }
+    p{
+        font-size: 13px !important;
+    }
+    .toli{
+        text-align: center !important;
+    }
+    .api, #kit, #kit1, #kit2{
+        font-size: 15px !important;
+    }
+    #bam{
+        margin-top: 50px !important;
+    }
+    #pie{
+        margin-left: 0px !important;
+    }
+    #imga2{
+        margin-left: 30px !important;
+    }
+    #apt{
+        width: 100% !important;
+        height: 100% !important;
+        margin: 0px !important;
+    }
+    .bow{
+        margin: 0px !important;
+    }
+    
+    #tip{
+        margin: 30px 0px 0px 0px !important
+    }
+    #pind, #pind1, #pind2{
+        margin-left: 10px !important;
+    }
+    #marys{
+        margin-top: 350px !important;
+    }
+    #ayad{
+        margin-left: 0px !important;
+    }
+    #blow{
+        margin: 70px 0px 0px 10px !important;
+        padding: 0px !important;
+        width: 350px !important;
+    }
+    #siudy{
+        margin-left: -20px !important;
+        width: 350px !important;
+    }
+    #pow{
+        padding-left: 20px !important;
+    }
+    #plch{
+        padding: 15px 100px 10px 10px !important;
+        font-size: 12px !important;
+        border-radius: 50px !important;
+        border: none !important;
+        margin-top: 50px !important;
+    }
+    
+}
+.seic{
+    background-color: rgba(255, 218, 185, 0.274);
+    /* height: 100vh !important; */
+}
+.bdn{
+    border: none !important;
+    color: rgb(17, 17, 136) !important;
+    font-size: 13px !important;
+    border-radius: 50px !important;
+    padding: 3px 25px !important;
+}
+.bdn:hover, .bdnn:hover{
+    background-color: black !important;
+    color: white !important;
+    border: none !important;
+}
+.bdnn{
+    border-radius: 50px !important;
+    border-color: red !important;
+    color: red !important;
+    padding: 3px 25px !important;
+    font-size: 13px !important;
+}
+.ull{
+    margin-left: 100px !important;
+    font-weight: bolder !important;
+    font-size: 13px !important;
+}
+.til{
+    padding: 0px 2px !important;
+}
+.ut{
+    color: rgb(17, 17, 136) !important;
+}
+.mlt{
+    margin-top: 65px !important;
+}
+.lat{
+    color: white !important; 
+    border-radius: 50px !important;
+    padding: 5px 35px !important;
+    margin-top: 20px !important;
+}
+.byi{
+    font-weight: bolder !important;
+    color: rgb(20, 20, 92) !important;
+}
+.aat{
+    margin-top: 50px !important;
+}
+.imga{
+    width: 70% !important;
+    height: 30% !important;
+}
+.tti{
+    background-color: rgba(220, 220, 220, 0.164) !important;
+}
+.too{
+    padding-top: 100px !important;
+}
+.pia{
+    font-size: 26px !important;
+    margin-top: 15px !important;
+    letter-spacing: 1.5px !important;
+    word-spacing: 5px !important;
+}
+.ggd{
+    text-decoration: none !important;
+    color: goldenrod !important;
+    font-weight: bold !important;
+    font-size: 13px !important;
+}
+.api{
+    font-weight: bolder !important;
+}
+.toy{
+    margin-right: 20px !important;
+    width: 5rem !important;
+    /* background-color: black !important */
+}
+.dktp{
+    padding: 30px !important;
+    background-color: rgb(255, 108, 55) !important;
+    color:  white !important;
+    border-radius: 20px !important;
+    margin-top: 30px !important;
+    font-size: 30px !important;
+    -webkit-box-shadow: 0px 0px 25px 1px rgba(255, 108, 55, 0.39);
+    -moz-box-shadow: 0px 0px 25px 1px rgba(255, 108, 55, 0.39);
+    box-shadow: 0px 0px 25px 1px rgba(255, 108, 55, 0.39);
+}
+.alp{
+    background-color: white !important;
+    border-radius: 30px !important;
+    margin: 0px 15px !important;
+    max-width: 20% !important;
+}
+.wro{
+    margin-left: 3rem !important;
+    margin-top: 100px !important;
+    
+}
+.st3{
+    font-size: 18px !important;
+    font-weight: bolder !important;
+    font-family: cursive !important;
+    color: rgb(20, 20, 92) !important;
+}
+.st4{
+    font-family: verdana !important;
+    color: rgb(220, 220, 220) !important;
+}
+.ptd{
+    padding: 30px !important;
+    background-color: rgb(248, 208, 32) !important;
+    color:  white !important;
+    border-radius: 20px !important;
+    margin-top: 30px !important;
+    font-size: 30px !important;
+    -webkit-box-shadow: 0px 0px 25px 1px rgba(248, 208, 32, 0.233);
+    -moz-box-shadow: 0px 0px 25px 1px rgba(248, 208, 32, 0.233);
+    box-shadow: 0px 0px 25px 1px rgba(248, 208, 32, 0.233);
+}
+.olp{
+    padding: 30px !important;
+    background-color: rgb(21, 195, 248) !important;
+    color:  white !important;
+    border-radius: 20px !important;
+    margin-top: 30px !important;
+    font-size: 30px !important;
+    -webkit-box-shadow: 0px 0px 25px 1px rgba(21, 195, 248, 0.329);
+    -moz-box-shadow: 0px 0px 25px 1px rgba(21, 195, 248, 0.329);
+    box-shadow: 0px 0px 25px 1px rgba(21, 195, 248, 0.329);
+}
+.ppo{
+    padding: 30px !important;
+    background-color: rgb(189, 226, 23) !important;
+    color:  white !important;
+    border-radius: 20px !important;
+    margin-top: 30px !important;
+    -webkit-box-shadow: 0px 0px 25px 1px rgba(189, 226, 23, 0.349);
+    -moz-box-shadow: 0px 0px 25px 1px rgba(189, 226, 23, 0.349);
+    box-shadow: 0px 0px 25px 1px rgba(189, 226, 23, 0.349);
+    font-size: 30px !important;
+}
+.ali{
+    height: 90vh !important;
+    padding-top: 150px !important;
+}
+.oto{
+    padding-bottom: 100px !important;
+}
+.lis{
+    margin-bottom: 30px !important;
+}
+.imga2{
+    width: 80% !important;
+    height: 80% !important;
+    margin-left: 70px !important;
+}
+.toli{
+    align-self: center !important;
+}
+.bam{
+    flex-direction: row-reverse !important;
+}
+.kit{
+    color:  orange !important;
+    font-size: 25px !important;
+}
+.pie{
+    margin-top: 40px !important;
+    margin-left: -65px !important;
+}
+.tip{
+    margin-top: 100px !important;
+    margin-bottom: 80px !important;
+}
+.qte{
+    /* color: black !important */
+    margin-left: 80% !important;
+    font-size: 22px !important;
+    color: lightgrey !important;
+}
+.apt{
+    max-width: auto !important;
+    height: 50% !important;
+    margin-left: 20% !important;
+}
+.yil{
+    margin-top: 20px !important;
+}
+.toil{
+    height: 70vh !important;
+    margin-bottom: 100px !important;
+}
+.upl{
+    margin-top: -30px !important;
+    font-weight: bold;
+    color: black !important;
+}
+.bow{
+    margin-top: 50px !important;
+}
+.pind{
+    border-radius: 10px !important;
+    margin-top: 50px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    -webkit-box-shadow: 0px 16px 15px 3px rgba(0,0,0,0.09);
+    -moz-box-shadow: 0px 16px 15px 3px rgba(0,0,0,0.09);
+    box-shadow: 0px 16px 15px 3px rgba(0,0,0,0.09);
+    width: 320px !important;
+    margin-left: 20px !important;
+    padding-bottom: 50px !important;
+}
+.ole{
+    color: red !important;
+    margin-top: 50px !important;
+    font-size: 12px !important;
+}
+.ole:hover{
+    cursor: pointer;
+    color: black !important;
+}
+.bic{
+    width: 320px !important;
+}
+.blow{
+    background-color: rgb(255, 241, 243) !important;
+    border-radius: 10px !important;
+    width: 60% !important;
+    padding: 50px 55px 70px !important;
+    height: 370px !important;
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+}
+.bci{
+    width: 326px !important;
+    height: 184.08px !important;
+    /* border-radius: 20px !important; */
+    /* padding-left: -5px !important; */
+}
+#crrk{
+    margin-top: -4px !important;
+    margin-left: -100px !important;
+    padding: 8px 30px !important;
+    font-size: 10px !important;
+}
+#crrk:hover{
+    cursor: pointer !important;
+    background-color: black !important;
+    color: white !important;
+}
+.plch{
+    padding: 10px 170px 10px 20px !important;
+    font-size: 14px !important;
+    border-radius: 50px !important;
+    border: none !important;
+    margin-top: 50px !important;
+}
+.siudy{
+    max-width: auto !important;
+    height: 80% !important;
+}
+.mtu{
+    margin-top: 5px !important;
+}
+.trw{
+    padding-top: 30px !important;
+    font-size: 13px !important;
+}
+.with{
+    width: 90% !important;
+    height: 70% !important;
+}
+.none{
+    list-style-type: none !important;
+    padding: 0px !important;
+    margin-top: 30px !important;
+    line-height: 35px !important;
+}
+
+.pow{
+    color: rgb(20, 20, 92) !important;
+    font-weight: 500 !important;
+    font-size: 13px !important;
+    padding-bottom: 50px !important;
+}
+.blu{
+    background-color: rgba(83, 83, 228, 0.911) !important;
+    color: white !important;
+}
+.ii{
+    border: 1px solid white !important;
+    padding: 7px !important;
+    margin: 0px 5px !important;
+}
